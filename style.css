@@ -67,7 +67,7 @@ h1, h2 {
 }
 
 .navbar-brand, .navbar-brand:hover, .navbar-brand:active {
-    color: #800080;
+    color: #421400;
 }
 
 .scoreAltColour {
@@ -80,18 +80,18 @@ h1, h2 {
 }
 
 .btn-primary {
-    background: #af00af;
-    border-color: #af00af;
+    background: #0009af;
+    border-color: #00afa0;
 }
 
 .btn-primary:hover {
-    background-color: #da45da;
-    border-color: #da45da;
+    background: #010779;
+    border-color: #005d55;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
-    background: #800080;
-    border-color: #800080;
+    background: #00044c;
+    border-color: #002522;
 }
 
 .btnOption {
