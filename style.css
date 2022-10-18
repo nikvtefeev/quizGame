@@ -9,6 +9,12 @@
     width: 80%;
 }
 
+body {
+    background-image: url('img/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #titleScreen {
     text-align: center;
     margin: auto;
